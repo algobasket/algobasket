@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ........ Open Source Softwre
+- 🔭 I’m currently working on ........ Open Source Software
 - 🌱 I’m currently learning .......... Python
 - 👯 I’m looking to collaborate on ... any open source softwares
 - 🤔 I’m looking for help with ....... Sponsorship
