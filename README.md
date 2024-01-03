@@ -2,7 +2,7 @@
 
 🔭 Open Source Software development. Learning Python.
 👯 Collaboration welcome on open source projects.
-🤔 Looking for sponsorship.
+🤔 Looking for sponsorship. 
 💬 Experienced in Programming, App ideas, Business ideas
 
 ## Contact
