@@ -14,3 +14,5 @@
 
 I love building amazing open-source software for the entire world. Any little donation 
 would be greatly appreciated and will be used wholeheartedly.
+
+If you want to donate via BTC - bc1qyz7fgwwc4kanmnquudk3kd49ewtne257s0t74w
