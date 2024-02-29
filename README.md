@@ -1,6 +1,6 @@
 # About Me
 
-🔭 Open Source Software development. Learning Python.
+🔭 Open Source Software development. Love coding in Python, NodeJs, Ruby, C#, C++ and C.
 👯 Collaboration welcome on open source projects.
 🤔 Looking for sponsorship. 
 💬 Experienced in Programming, App ideas, Business ideas
