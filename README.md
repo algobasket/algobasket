@@ -15,4 +15,5 @@
 I love building amazing open-source software for the entire world. Any little donation 
 would be greatly appreciated and will be used wholeheartedly.
 
-If you want to donate via BTC - bc1qyz7fgwwc4kanmnquudk3kd49ewtne257s0t74w
+If you want to donate - [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/algobasket)
+
