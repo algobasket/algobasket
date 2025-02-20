@@ -15,6 +15,7 @@
 I love building amazing open-source software for the entire world. Any little donation 
 would be greatly appreciated and will be used wholeheartedly.
 
-🤍 Donate If You Want - ![GitHub Sponsor](https://img.shields.io/github/sponsors/algobasket?label=Sponsor&logo=GitHub)
+🤍 Donate If You Want - <iframe src="https://github.com/sponsors/maheshj01/button" title="Sponsor maheshj01" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 
 
